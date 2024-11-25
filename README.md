@@ -1,5 +1,5 @@
 # DokiDokiDropDash - Anime Sorting Fun! 🌈🎮
-Welcome to DokiDokiDropDash, where anime passion meets sorting sensation! 🚀✨
+Welcome to DokiDokiDropDash, where anime passion meets sorting sensation! This is still a WIP, Updates coming soon!🚀✨
 
 ## What's DokiDokiDropDash?
 ------------------------
